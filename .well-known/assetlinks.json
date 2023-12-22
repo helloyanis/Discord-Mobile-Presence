@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.helloyanis.mobilepresencefordiscord",
+            "sha256_cert_fingerprints": [
+                "3D:BA:B9:D4:3C:9C:4B:64:D7:5C:95:77:07:89:58:D7:6E:74:F1:32:9C:BD:1F:05:80:54:FF:05:05:D5:F7:5C"
+            ]
+        }
+    }
+]
